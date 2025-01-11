@@ -1,0 +1,100 @@
+object FormMain: TFormMain
+  Left = 530
+  Height = 210
+  Top = 135
+  Width = 320
+  Caption = 'Code Tree'
+  ClientHeight = 210
+  ClientWidth = 320
+  DesignTimePPI = 144
+  Menu = MainMenu1
+  LCLVersion = '3.2.0.0'
+  WindowState = wsMaximized
+  object ToolBar1: TToolBar
+    Left = 0
+    Height = 39
+    Top = 0
+    Width = 320
+    Caption = 'ToolBar1'
+    TabOrder = 0
+  end
+  object VTree: TLazVirtualStringTree
+    Left = 0
+    Height = 137
+    Top = 39
+    Width = 320
+    Align = alClient
+    DefaultText = 'Node'
+    Header.AutoSizeIndex = 0
+    Header.Columns = <>
+    Header.MainColumn = -1
+    TabOrder = 1
+  end
+  object StatusBar1: TStatusBar
+    Left = 0
+    Height = 34
+    Top = 176
+    Width = 320
+    Panels = <    
+      item
+        Text = 'State:'
+        Width = 60
+      end    
+      item
+        Width = 50
+      end>
+    SimplePanel = False
+  end
+  object MainMenu1: TMainMenu
+    Left = 24
+    Top = 24
+    object MenuItem2: TMenuItem
+      Caption = '&File'
+      object MenuItem3: TMenuItem
+        Caption = '&New'
+      end
+      object MenuItem4: TMenuItem
+        Action = FileOpen1
+      end
+      object MenuItem5: TMenuItem
+        Caption = '&Save'
+      end
+      object MenuItem6: TMenuItem
+        Caption = 'Save &As'
+      end
+      object MenuItem7: TMenuItem
+        Caption = '-'
+      end
+      object MenuItem8: TMenuItem
+        Caption = '&Print'
+      end
+      object MenuItem9: TMenuItem
+        Caption = 'P&rint Setup ...'
+      end
+      object MenuItem10: TMenuItem
+        Caption = '-'
+      end
+      object MenuItem11: TMenuItem
+        Action = FileExit1
+      end
+    end
+  end
+  object ActionList1: TActionList
+    Left = 80
+    Top = 128
+    object FileOpen1: TFileOpen
+      Category = 'File'
+      Caption = '打开(&O)...'
+      Dialog.Filter = '*.dpr|*.dpr|*.lpr|*.lpr|*.*|*.*'
+      Dialog.InitialDir = '.'
+      Hint = '打开'
+      ShortCut = 16463
+      OnAccept = FileOpen1Accept
+    end
+    object FileExit1: TFileExit
+      Category = 'File'
+      Caption = '退出(&x)'
+      Hint = '退出'
+    end
+  end
+end

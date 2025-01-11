@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="CodeTree.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="fmmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormMain"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="fmMain"/>
+        <TopLine Value="35"/>
+        <CursorPos X="15" Y="53"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\DelphiAST.Classes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\DelphiAST.Consts.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\DelphiAST.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="267"/>
+        <CursorPos X="47" Y="275"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\DelphiAST.Serialize.Binary.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\DelphiAST.SimpleParserEx.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\DelphiAST.Writer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\StringPool.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\SimpleParser\SimpleParser.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\SimpleParser\SimpleParser.Lexer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\SimpleParser\SimpleParser.Lexer.Types.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\SimpleParser\SimpleParser.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\SimpleParser\SimpleParser.rsj"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\SimpleParser\SimpleParser.Types.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\FreePascalSupport\Diagnostics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="DelphiAST\FreePascalSupport\IOUtils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\components\lazutils\lazfglhash.pas"/>
+        <UnitName Value="LazFglHash"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="83"/>
+        <CursorPos X="3" Y="83"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-generics\src\generics.defaults.pas"/>
+        <UnitName Value="Generics.Defaults"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="43"/>
+        <CursorPos X="87" Y="55"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="24">
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="40" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="180" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="53" Column="60" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="180" Column="5" TopLine="177"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="54" Column="16" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="171" TopLine="169"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="207" Column="20" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-generics\src\generics.defaults.pas"/>
+        <Caret Line="58" Column="50" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-generics\src\generics.defaults.pas"/>
+        <Caret Line="57" Column="50" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-generics\src\generics.defaults.pas"/>
+        <Caret Line="55" Column="31" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="207" Column="54" TopLine="198"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="53" Column="30" TopLine="43"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="208" Column="4" TopLine="199"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="174" Column="10" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="177" Column="10" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="52" Column="14" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="170" Column="20" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="234" Column="39" TopLine="222"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="209" Column="49" TopLine="204"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="239" Column="13" TopLine="231"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="262" Column="4" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="269" Column="15" TopLine="261"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="112" Column="18" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="18" Column="35" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Caret Line="268" Column="7" TopLine="257"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="DelphiAST\DelphiAST.ProjectIndexer.pas"/>
+        <Line Value="423"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
